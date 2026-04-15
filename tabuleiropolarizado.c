@@ -19,5 +19,5 @@ void main()
         printf("\n");
     }
 
-    printf("Criado por [SEU NOME]");
+    printf("Criado por Thiago Bonfanti");
 }
